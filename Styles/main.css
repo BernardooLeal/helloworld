@@ -1,0 +1,21 @@
+html {
+    background-color: rgba(15, 219, 73, 0.79);
+}
+body {
+    border: 3px solid rgb(0, 38, 255);
+    background-color: rgb(231, 246, 10);
+    min-height: 100vh;
+    max-width: 850px;
+    margin: 0 auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 120%;
+}
+
+header h2{
+    font-size: 250%;
+    text-align: center;
+    margin-top: 15px;
+}
+.BannerImage {
+    max-width: 500px;
+}
